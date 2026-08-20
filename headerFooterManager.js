@@ -46,12 +46,12 @@ class SpecialHeader extends HTMLElement {
                                     <li><a class="menu-item" href="index.html">Home</a>
                                         
                                     </li>
-                                    <li><a class="menu-item" href="#">Air Conditioning<br>&  Refrigeration</a>
+                                    <li><a class="menu-item" href="#">Air Conditioning<br> Services</a>
                                         <ul>
                                             <li><a class="menu-item" href="sitesurvey.html">Site surveys, consultations and planning</a></li>
-                                            <li><a class="menu-item" href="installation.html">Supply and Installation</a></li>
-                                            <li><a class="menu-item" href="repair.html">Equipment repair</a></li>
-                                            <li><a class="menu-item" href="maintenance.html">System maintenance</a></li>
+                                            <li><a class="menu-item" href="installation.html">Ac Installation</a></li>
+                                            <li><a class="menu-item" href="repair.html">Ac Sytem repair</a></li>
+                                            <li><a class="menu-item" href="maintenance.html"> Ac System maintenance</a></li>
                                             <li><a class="menu-item" href="pricing-plans.html">Pricing Plans</a></li>
                                             
                                         </ul>
