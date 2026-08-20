@@ -85,7 +85,7 @@ class SpecialFooter extends HTMLElement {
                     <div class="col-lg-4 col-sm-6">
                         <img class="logo-main" src="images/AOU_LOGO.png" alt="" >
                         <div class="spacer-20"></div>
-                        <p>We specialize in providing top-quality heating, ventilation, and air conditioning services tailored to your unique requirements. Our skilled technicians are dedicated to delivering reliable solutions that ensure your comfort and satisfaction.</p>
+                        <p>Air Options is Kampala's trusted HVAC company for AC installation, repair, maintenance, and emergency AC repair. Serving homes, offices, and institutions across Kampala, Nakawa, Ntinda, kololo, Muyenga and surrounding areas..</p>
 
                         <div class="social-icons mb-sm-30">
                             <a href="https://m.facebook.com/p/Air-Options-Uganda-100057374892897/"><i class="fa-brands fa-facebook-f"></i></a>
