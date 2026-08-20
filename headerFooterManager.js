@@ -110,9 +110,9 @@ class SpecialFooter extends HTMLElement {
                                     <h5>Our Services</h5>
                                     <ul>
                                             <li><a class="menu-item" href="sitesurvey.html">Site surveys, consultations and planning</a></li>
-                                            <li><a class="menu-item" href="installation.html">Supply and Installation</a></li>
-                                            <li><a class="menu-item" href="repair.html">Equipment repair</a></li>
-                                            <li><a class="menu-item" href="maintenance.html">System maintenance</a></li>
+                                            <li><a class="menu-item" href="installation.html">Ac Installation</a></li>
+                                            <li><a class="menu-item" href="repair.html">Ac System repair</a></li>
+                                            <li><a class="menu-item" href="maintenance.html">Ac System maintenance</a></li>
                                             <li><a class="menu-item" href="pricing-plans.html">Pricing Plans</a></li>
                                             
                                         </ul>
