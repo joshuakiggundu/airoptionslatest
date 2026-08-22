@@ -48,7 +48,7 @@ class SpecialHeader extends HTMLElement {
                                     </li>
                                     <li><a class="menu-item" href="#">Air Conditioning<br> Services</a>
                                         <ul>
-                                            <li><a class="menu-item" href="sitesurvey.html">Site surveys, consultations and planning</a></li>
+                                            <li><a class="menu-item" href="productss-detail.html">Air Conditioning System</a></li>
                                             <li><a class="menu-item" href="installation.html">Ac Installation</a></li>
                                             <li><a class="menu-item" href="repair.html">Ac Sytem repair</a></li>
                                             <li><a class="menu-item" href="maintenance.html"> Ac System maintenance</a></li>
@@ -57,7 +57,7 @@ class SpecialHeader extends HTMLElement {
                                         </ul>
                                     </li>
                                     <li><a class="menu-item" href="about.html">About Us</a></li>
-                                    <li><a class="menu-item" href="projects.html">Clientele</a></li>
+                                    <li><a class="menu-item" href="projects.html">Applications</a></li>
                                     <li><a class="menu-item" href="blog.html">Blog</a></li>
                                     <li><a class="menu-item" href="contact.html">Contact Us</a></li>
                                 </ul>
@@ -109,7 +109,7 @@ class SpecialFooter extends HTMLElement {
                                 <div class="widget">
                                     <h5>Our Services</h5>
                                     <ul>
-                                            <li><a class="menu-item" href="sitesurvey.html">Site surveys, consultations and planning</a></li>
+                                            <li><a class="menu-item" href="productssdetail.html">Air Conditioning System</a></li>
                                             <li><a class="menu-item" href="installation.html">Ac Installation</a></li>
                                             <li><a class="menu-item" href="repair.html">Ac System repair</a></li>
                                             <li><a class="menu-item" href="maintenance.html">Ac System maintenance</a></li>
