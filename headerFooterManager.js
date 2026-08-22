@@ -136,7 +136,7 @@ class SpecialFooter extends HTMLElement {
                             <div class="spacer-20"></div>
 
                             <div class="fw-bold text-white"><i class="icofont-envelope me-2 id-color-2"></i>Send a Message</div>
-                            info@airoptionsuganda.com                            
+                            info@airoptionsug.com                            
                         </div>
                     </div>
                 </div>
