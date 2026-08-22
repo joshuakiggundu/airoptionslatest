@@ -147,7 +147,7 @@ class SpecialFooter extends HTMLElement {
                         <div class="col-md-12">
                             <div class="de-flex">
                                 <div class="de-flex-col">
-                                    Copyright 2025 - AirOptions
+                                    Copyright 2026 - AirOptions
                                 </div>
                                 <ul class="menu-simple">
                                     <li><a href="#">Terms &amp; Conditions</a></li>
