@@ -1,5 +1,18 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "airoptionswebsite.vercel.app"
+        }
+      ],
+      "destination": "https://www.airoptionsug.com/$1",
+      "permanent": true
+    }
+  ]
 }
   
