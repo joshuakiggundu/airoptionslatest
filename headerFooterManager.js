@@ -8,9 +8,9 @@ class SpecialHeader extends HTMLElement {
                         <div class="col-lg-12">
                             <div class="d-flex justify-content-between xs-hide">
                                 <div class="header-widget d-flex">
-                                    <div class="topbar-widget"><a href="#"><i class="icofont-phone"></i>+256 701 430 671</a></div>
-                                    <div class="topbar-widget"><a href="#"><i class="icofont-phone"></i>+256 776 430 671</a></div>
-                                    <div class="topbar-widget"><a href="#"><i class="icofont-envelope"></i>info@airoptionsug.com</a></div>
+                                    <div class="topbar-widget"><a href="tel:+256701430671"><i class="icofont-phone"></i>+256 701 430 671</a></div>
+                                    <div class="topbar-widget"><a href="tel:+256776430671"><i class="icofont-phone"></i>+256 776 430 671</a></div>
+                                    <div class="topbar-widget"><a href="mailto:info@airoptionsug.com"><i class="icofont-envelope"></i>info@airoptionsug.com</a></div>
                                     <div class="topbar-widget"><a href="#"><i class="icofont-wall-clock"></i>Mon - Fri 08.00am - 17.00pm</a></div>
                                 </div>
 
@@ -32,10 +32,10 @@ class SpecialHeader extends HTMLElement {
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
-                                    <a href="index.html">
-                                        <img class="logo-main" src="images/AOU_LOGO.png" style="width:200px; height:60px;" alt="">
-                                        <img class="logo-scroll" src="images/AOU_LOGO.png" style="width:200px; height:60px;" alt="">
-                                         <img class="logo-mobile" src="images/AOU_LOGO.png" style="width:200px; height:60px;" alt=""> 
+                                    <a href="/">
+                                        <img class="logo-main" src="/images/AOU_LOGO.png" style="width:200px; height:60px;" alt="Air Options (U) LTD logo">
+                                        <img class="logo-scroll" src="/images/AOU_LOGO.png" style="width:200px; height:60px;" alt="Air Options (U) LTD logo">
+                                         <img class="logo-mobile" src="/images/AOU_LOGO.png" style="width:200px; height:60px;" alt="Air Options (U) LTD logo"> 
                                         
                                     </a>
                                 </div>
@@ -43,28 +43,28 @@ class SpecialHeader extends HTMLElement {
                             </div>
                             <div class="de-flex-col header-col-mid">
                                 <ul id="mainmenu">
-                                    <li><a class="menu-item" href="index.html">Home</a>
+                                    <li><a class="menu-item" href="/">Home</a>
                                         
                                     </li>
                                     <li><a class="menu-item" href="#">Air Conditioning<br> Services</a>
                                         <ul>
-                                            <li><a class="menu-item" href="productss-detail.html">Air Conditioning System</a></li>
-                                            <li><a class="menu-item" href="installation.html">Ac Installation</a></li>
-                                            <li><a class="menu-item" href="repair.html">Ac Sytem repair</a></li>
-                                            <li><a class="menu-item" href="maintenance.html"> Ac System maintenance</a></li>
-                                            <li><a class="menu-item" href="pricing-plans.html">Pricing Plans</a></li>
+                                            <li><a class="menu-item" href="/products">Air Conditioning System</a></li>
+                                            <li><a class="menu-item" href="/installation">Ac Installation</a></li>
+                                            <li><a class="menu-item" href="/repair">Ac Sytem repair</a></li>
+                                            <li><a class="menu-item" href="/maintenance"> Ac System maintenance</a></li>
+                                            <li><a class="menu-item" href="/pricing-plans">Pricing Plans</a></li>
                                             
                                         </ul>
                                     </li>
-                                    <li><a class="menu-item" href="about.html">About Us</a></li>
-                                    <li><a class="menu-item" href="projects.html">Applications</a></li>
-                                    <li><a class="menu-item" href="blog.html">Blog</a></li>
-                                    <li><a class="menu-item" href="contact.html">Contact Us</a></li>
+                                    <li><a class="menu-item" href="/about">About Us</a></li>
+                                    <li><a class="menu-item" href="/projects">Applications</a></li>
+                                    <li><a class="menu-item" href="/blog">Blog</a></li>
+                                    <li><a class="menu-item" href="/contact">Contact Us</a></li>
                                 </ul>
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">          
-                                    <a href="contact.html" class="btn-main bg-color-2">Schedule Now</a>
+                                    <a href="/contact" class="btn-main bg-color-2">Schedule Now</a>
                                     <span id="menu-btn" style="color:white;"></span>
                                 </div>
                             </div>
@@ -83,7 +83,7 @@ class SpecialFooter extends HTMLElement {
             <div class="container">
                 <div class="row gx-5">
                     <div class="col-lg-4 col-sm-6">
-                        <img class="logo-main" src="images/AOU_LOGO.png" alt="" >
+                        <img class="logo-main" src="/images/AOU_LOGO.png" alt="Air Options (U) LTD logo" >
                         <div class="spacer-20"></div>
                         <p>Air Options is Kampala's trusted HVAC company for AC installation, repair, maintenance, and emergency AC repair. Serving homes, offices, and institutions across Kampala, Nakawa, Ntinda, kololo, Muyenga and surrounding areas..</p>
 
@@ -98,10 +98,10 @@ class SpecialFooter extends HTMLElement {
                                 <div class="widget">
                                     <h5>Company</h5>
                                     <ul>                                        
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="product-details.html">Products</a></li>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="/products">Products</a></li>
+                                        <li><a href="/about">About Us</a></li>
+                                        <li><a href="/contact">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -109,11 +109,11 @@ class SpecialFooter extends HTMLElement {
                                 <div class="widget">
                                     <h5>Our Services</h5>
                                     <ul>
-                                            <li><a class="menu-item" href="productssdetail.html">Air Conditioning System</a></li>
-                                            <li><a class="menu-item" href="installation.html">Ac Installation</a></li>
-                                            <li><a class="menu-item" href="repair.html">Ac System repair</a></li>
-                                            <li><a class="menu-item" href="maintenance.html">Ac System maintenance</a></li>
-                                            <li><a class="menu-item" href="pricing-plans.html">Pricing Plans</a></li>
+                                            <li><a class="menu-item" href="/products">Air Conditioning System</a></li>
+                                            <li><a class="menu-item" href="/installation">Ac Installation</a></li>
+                                            <li><a class="menu-item" href="/repair">Ac System repair</a></li>
+                                            <li><a class="menu-item" href="/maintenance">Ac System maintenance</a></li>
+                                            <li><a class="menu-item" href="/pricing-plans">Pricing Plans</a></li>
                                             
                                         </ul>
                                 </div>
@@ -123,7 +123,7 @@ class SpecialFooter extends HTMLElement {
                     <div class="col-lg-4 col-sm-6 order-lg-2 order-sm-1">
                         <div class="widget">
                             <h5 class="id-color-2">24 Hours &amp; Emergencies</h5>
-                            <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><i class="icofont-phone-circle id-color-2"></i>+256 776 430 671</h2>
+                            <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><a href="tel:+256776430671" style="color:inherit; text-decoration:none;"><i class="icofont-phone-circle id-color-2"></i>+256 776 430 671</a></h2>
 
                             <div class="spacer-20"></div>
 
@@ -136,7 +136,7 @@ class SpecialFooter extends HTMLElement {
                             <div class="spacer-20"></div>
 
                             <div class="fw-bold text-white"><i class="icofont-envelope me-2 id-color-2"></i>Send a Message</div>
-                            info@airoptionsug.com                            
+                            <a href="mailto:info@airoptionsug.com" style="color:inherit;">info@airoptionsug.com</a>
                         </div>
                     </div>
                 </div>
