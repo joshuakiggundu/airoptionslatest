@@ -105,6 +105,7 @@
       ]
     }
     </script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CHYHPP7MLB"></script>
@@ -225,14 +226,15 @@
                                             <span class="d-label">Message</span>
                                             <textarea name="message" id="message" class="form-control" placeholder="Your Message" required></textarea>
                                         </div>
+                            
+                                        <!-- reCAPTCHA widget -->
+                                        <div class="g-recaptcha" data-sitekey="6LeDkqEtAAAAAAHFw2cPLs62iea6UeuVRfha7W7Z"></div>
                                     </div>
                                 </div>
                             
                                 <!-- Formspree hidden inputs -->
-                                <input type="hidden" name="_captcha" value="false">
                                 <input type="hidden" name="_template" value="table">
                                 <input type="hidden" name="_autoresponse" value="Thank you for your message. We'll get back to you soon.">
-                                <!-- Optional redirect after submit -->
                                 <input type="hidden" name="_next" value="https://www.airoptionsug.com/contact">
                             
                                 <div id='submit' class="mt20">
