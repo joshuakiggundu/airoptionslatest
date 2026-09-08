@@ -9,7 +9,6 @@ class SpecialHeader extends HTMLElement {
                             <div class="d-flex justify-content-between xs-hide">
                                 <div class="header-widget d-flex">
                                     <div class="topbar-widget"><a href="tel:+256701430671"><i class="icofont-phone"></i>+256 701 430 671</a></div>
-                                    <div class="topbar-widget"><a href="tel:+256776430671"><i class="icofont-phone"></i>+256 776 430 671</a></div>
                                     <div class="topbar-widget"><a href="mailto:info@airoptionsug.com"><i class="icofont-envelope"></i>info@airoptionsug.com</a></div>
                                     <div class="topbar-widget"><a href="#"><i class="icofont-wall-clock"></i>Mon - Fri 08.00am - 17.00pm</a></div>
                                 </div>
