@@ -122,7 +122,7 @@ class SpecialFooter extends HTMLElement {
                     <div class="col-lg-4 col-sm-6 order-lg-2 order-sm-1">
                         <div class="widget">
                             <h5 class="id-color-2">24 Hours &amp; Emergencies</h5>
-                            <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><a href="tel:+256701430671" style="color:inherit; text-decoration:none;"><i class="icofont-phone-circle id-color-2"></i>+256 776 430 671</a></h2>
+                            <h2 class="jarallax mb0 wow fadeInUp" data-wow-delay=".2s"><a href="tel:+256701430671" style="color:inherit; text-decoration:none;"><i class="icofont-phone-circle id-color-2"></i>+256 701 430 671</a></h2>
 
                             <div class="spacer-20"></div>
 
